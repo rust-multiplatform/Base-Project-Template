@@ -184,6 +184,12 @@ Unfortunately, BitBucket Pipelines don't have status badges.
 
 The pipelines are available at: [BitBucket Mirror](https://bitbucket.org/rust-multiplatform/base-project-template/)
 
+### CI Platform: Azure DevOps
+
+[![Build Status](https://dev.azure.com/Rust-Multiplatform/Base%20Project%20Template/_apis/build/status/Base%20Project%20Template?branchName=main)](https://dev.azure.com/Rust-Multiplatform/Base%20Project%20Template/_build/latest?definitionId=1&branchName=main)
+
+> Note that a failure can be linked to used up credits and/or plan.
+
 ## Contributing & Getting Help
 
 We welcome any help we get and try to answer questions as good as possible!  
